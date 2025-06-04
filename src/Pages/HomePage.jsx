@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import icon from "./sahur.png";
-import Navbar from "../component/navbar";
+import Navbar from "../component/Navbar";
 
 export default function HomePage() {
   const [typedText, setTypedText] = useState("");

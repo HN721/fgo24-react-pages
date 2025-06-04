@@ -1,6 +1,6 @@
 import React from "react";
 
-import Navbar from "../component/navbar";
+import Navbar from "../component/Navbar";
 
 export default function AboutPage() {
   return (
